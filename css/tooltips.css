@@ -1,0 +1,7 @@
+.project-section {
+    float: left;
+}
+
+.project-section > span {
+    display: block;
+}
